@@ -13,3 +13,8 @@ var iPhone8 = new Phone("Apple", 2000, "grey", 10);
 var SamsungGalaxy = new Phone("Samsung", 2100, "black", 11);
 var HuaweiP20 = new Phone("Huawei", 2400, "black", 12);
 var HtcU12 = new Phone("HTC", 2000, "black", 13);
+
+iPhone8.printInfo();
+SamsungGalaxy.printInfo();
+uaweiP20.printInfo();
+HtcU12.printInfo(); 
